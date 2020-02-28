@@ -16,7 +16,7 @@ public class VacationPageTest {
 		HomePageTestObj.openVacationTab();
 		
 		//CheckComment
-		//check2
+		//check2 pulled
 		VacPageObj = new VacationPage();
 		VacPageObj.testCase1();		
 		
